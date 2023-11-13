@@ -18,7 +18,7 @@ ganti program di
      ```
 
 ubah gambar nya 
-     
+
     ```powershell
       morethan-log\public\avatar.svg
     ```
